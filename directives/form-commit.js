@@ -4,7 +4,7 @@
 * What:
 *	A utility class extends your form references inside your scopes
 * Why: 
-* 	
+* Sometimes we need to access the <form> dom element from our angular application. That's it.
 */
 
 angular.module('YOUR_MODULE')

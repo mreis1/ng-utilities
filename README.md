@@ -1,0 +1,1 @@
+This repo contains snippets of code that you can easly plug into your projects.
